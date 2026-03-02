@@ -1,8 +1,8 @@
 # WEEK 02 Hello Chu
 ## WEEK 02 Hello Chu
 ### WEEK 02 Hello Chu
-<img width="922" height="833" alt="image" src="https://github.com/user-attachments/assets/b3d05ec8-bbaf-4d5e-ac34-cc5815e36714" />
-<img width="833" height="297" alt="image" src="https://github.com/user-attachments/assets/c5c00802-6119-40bf-bf68-ea64c49d1d0f" />
+<img width="889" height="830" alt="image" src="https://github.com/user-attachments/assets/875e3546-6d45-472a-b3b9-7c841be0dae9" />
+
 
 # Unit 02
 
