@@ -27,3 +27,18 @@
 
 Python 可以直接使用 == 運算子比較兩個字串是否完全相同。比較時會區分大小寫，且每個字元都必須一致
 <img width="813" height="176" alt="image" src="https://github.com/user-attachments/assets/da23f038-7b12-4e2d-bcf7-69cba0f5857e" />
+
+### Lab 1: 智慧分裝機 (三元運算子)
+<img width="814" height="306" alt="image" src="https://github.com/user-attachments/assets/9796cc25-21e5-4d4d-ab32-5145d18e27ab" />
+
+### Lab 2: 冰箱掃描儀 (成員運算子 in)
+<img width="815" height="308" alt="image" src="https://github.com/user-attachments/assets/2bdb3fbb-13d9-4dd5-b8ba-8c0e0d11994c" />
+
+### Lab 3: 感應水龍頭 (隱式布林值)
+<img width="816" height="208" alt="image" src="https://github.com/user-attachments/assets/4e03596b-b5f0-4499-b44c-08c49010d11b" />
+
+### Lab 4: VIP 快速通關 (綜合應用)
+<img width="814" height="193" alt="image" src="https://github.com/user-attachments/assets/96721369-8d29-47cf-ae5d-2c8cef9d6dbe" />
+
+### Lab 5: 天氣管家 (邏輯運算優化)
+<img width="812" height="189" alt="image" src="https://github.com/user-attachments/assets/4f0a22f8-cf68-46eb-a003-5d956a1b4613" />
