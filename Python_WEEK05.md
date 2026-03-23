@@ -1,3 +1,5 @@
+# Unit 4 
+# 決策進階用法
 ### Lab 1: 智慧分裝機 (三元運算子)
 <img width="814" height="306" alt="image" src="https://github.com/user-attachments/assets/9796cc25-21e5-4d4d-ab32-5145d18e27ab" />
 
@@ -28,3 +30,25 @@
 
 ### P04-03: 倒數計時
 <img width="815" height="292" alt="image" src="https://github.com/user-attachments/assets/4e245b0c-d0d2-4dbe-a1f6-217c046ac629" />
+
+# For 迴圈與 Range
+### P04-04: 單參數
+從 0 開始到 n-1,總共執行 n 次
+<img width="812" height="186" alt="image" src="https://github.com/user-attachments/assets/93b909c1-4e05-4903-85c8-aa1b0af6bd5c" />
+
+### P04-05: 雙參數
+指定起始點和結束點 (不含結束點)
+<img width="816" height="187" alt="image" src="https://github.com/user-attachments/assets/fd9a390c-4a9b-4a96-a78b-a8297041b8fd" />
+
+### P04-06: 三參數
+加入步長參數,可以跳躍或反向
+<img width="811" height="187" alt="image" src="https://github.com/user-attachments/assets/03c077b8-2cc3-44d7-b56b-a2148a816841" />
+
+### P04-07: 字串迭代
+<img width="813" height="335" alt="image" src="https://github.com/user-attachments/assets/179086ad-af6b-4ee7-b56d-d742976aadb2" />
+
+### P04-11: Break - 強制跳出
+<img width="812" height="223" alt="image" src="https://github.com/user-attachments/assets/ea6b7552-17c5-42c3-9e07-bc298c792e20" />
+
+### P04-12: Continue - 跳過本次
+<img width="815" height="204" alt="image" src="https://github.com/user-attachments/assets/dcacaca4-c4ef-4031-a87a-a22233b23b1f" />
