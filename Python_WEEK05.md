@@ -53,7 +53,7 @@
 ### P04-12: Continue - 跳過本次
 <img width="815" height="204" alt="image" src="https://github.com/user-attachments/assets/dcacaca4-c4ef-4031-a87a-a22233b23b1f" />
 
-# UNIT 5 列表與元組
+# UNIT 5 列表(List)與元組(Tuple)
 
 ## List vs Tuple：關鍵差異
 ### List 列表 []
@@ -74,6 +74,8 @@
 
 可作為字典的 key
 
+## 基礎操作：建立與存取
+
 ### 建立列表
 <img width="486" height="105" alt="image" src="https://github.com/user-attachments/assets/b7cdcc16-21f7-4e2c-aeed-26689ea8fad1" />
 
@@ -83,11 +85,15 @@
 ### 修改內容
 <img width="550" height="118" alt="image" src="https://github.com/user-attachments/assets/3c878e19-ffc0-427a-a3d5-e58b1bc33693" />
 
+## 新增元素
+
 ### append() - 尾端新增
 <img width="548" height="123" alt="image" src="https://github.com/user-attachments/assets/ba85d415-a022-4040-87c2-33e7d7150303" />
 
 ### insert() - 指定位置插入
 <img width="552" height="123" alt="image" src="https://github.com/user-attachments/assets/f1e2ee2c-d7c7-4aaf-9e37-45060b4827e7" />
+
+## 刪除元素的三種方式
 
 ### remove() - 依值刪除
 <img width="548" height="118" alt="image" src="https://github.com/user-attachments/assets/9f6145c7-3a72-44f5-9763-4720c4a869c9" />
@@ -100,25 +106,28 @@
 ### clear() - 清空全部
 <img width="546" height="116" alt="image" src="https://github.com/user-attachments/assets/64e8e227-d614-46dd-b23f-a411eaa55fac" />
 
-### len() - 長度計算
+## 實用方法集錦
+
+### 1. len() - 長度計算
 <img width="780" height="151" alt="image" src="https://github.com/user-attachments/assets/57fda3fc-e15f-4b50-bb09-db57986edd61" />
 
-### reverse() - 反轉順序
+### 2. reverse() - 反轉順序
 <img width="778" height="149" alt="image" src="https://github.com/user-attachments/assets/66a4490c-d2dd-4fc8-a6dc-ec5e06dfd97d" />
 
-### count() - 計數
+### 3. count() - 計數
 <img width="778" height="122" alt="image" src="https://github.com/user-attachments/assets/5b2a305f-40ac-48a2-a930-25d57113a873" />
 
-### sort() - 原地排序
+### 4. sort() - 原地排序
 <img width="778" height="145" alt="image" src="https://github.com/user-attachments/assets/8261a8d1-5528-45de-bd0b-16b172e9c453" />
 
-### index() - 尋找位置
+### 5. index() - 尋找位置
 <img width="779" height="127" alt="image" src="https://github.com/user-attachments/assets/3b4c90e1-c757-47c2-ab8b-6e84b9f2d4be" />
 
-### in - 成員檢查
+### 6. in - 成員檢查
 <img width="780" height="149" alt="image" src="https://github.com/user-attachments/assets/6cf02e94-eb5f-451e-bc62-b7bd805375f6" />
 
 ## 切片操作
+
 ### 前三個元素
 <img width="781" height="122" alt="image" src="https://github.com/user-attachments/assets/92623c78-14c9-4dcb-8506-85135cb547bf" />
 
