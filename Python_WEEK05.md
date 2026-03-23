@@ -52,3 +52,49 @@
 
 ### P04-12: Continue - 跳過本次
 <img width="815" height="204" alt="image" src="https://github.com/user-attachments/assets/dcacaca4-c4ef-4031-a87a-a22233b23b1f" />
+
+# UNIT 5 列表與元組
+
+## List vs Tuple：關鍵差異
+### List 列表 []
+可變 (Mutable)：內容可修改
+
+適合動態資料：購物車、成績單
+
+記憶體耗用較高
+
+提供豐富的方法：append, remove, sort
+
+### Tuple 元組 ()
+不可變 (Immutable)：建立後無法修改
+
+適合固定資料：座標、日期
+
+記憶體效率更高
+
+可作為字典的 key
+
+### 建立列表
+<img width="486" height="105" alt="image" src="https://github.com/user-attachments/assets/b7cdcc16-21f7-4e2c-aeed-26689ea8fad1" />
+
+### 存取元素
+<img width="549" height="134" alt="image" src="https://github.com/user-attachments/assets/16581c7c-aeaa-4e56-808b-140369741424" />
+
+### 修改內容
+<img width="550" height="118" alt="image" src="https://github.com/user-attachments/assets/3c878e19-ffc0-427a-a3d5-e58b1bc33693" />
+
+### append() - 尾端新增
+<img width="548" height="123" alt="image" src="https://github.com/user-attachments/assets/ba85d415-a022-4040-87c2-33e7d7150303" />
+
+### insert() - 指定位置插入
+<img width="552" height="123" alt="image" src="https://github.com/user-attachments/assets/f1e2ee2c-d7c7-4aaf-9e37-45060b4827e7" />
+
+### remove() - 依值刪除
+<img width="548" height="118" alt="image" src="https://github.com/user-attachments/assets/9f6145c7-3a72-44f5-9763-4720c4a869c9" />
+
+### pop() - 回傳並刪除
+預設移除最後一個元素並回傳該值
+<img width="546" height="152" alt="image" src="https://github.com/user-attachments/assets/bfd8e410-84f8-4557-ad2f-672b080e78e7" />
+
+### clear() - 清空全部
+<img width="546" height="116" alt="image" src="https://github.com/user-attachments/assets/64e8e227-d614-46dd-b23f-a411eaa55fac" />
