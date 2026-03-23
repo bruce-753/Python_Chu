@@ -94,7 +94,55 @@
 
 ### pop() - 回傳並刪除
 預設移除最後一個元素並回傳該值
+
 <img width="546" height="152" alt="image" src="https://github.com/user-attachments/assets/bfd8e410-84f8-4557-ad2f-672b080e78e7" />
 
 ### clear() - 清空全部
 <img width="546" height="116" alt="image" src="https://github.com/user-attachments/assets/64e8e227-d614-46dd-b23f-a411eaa55fac" />
+
+### len() - 長度計算
+<img width="780" height="151" alt="image" src="https://github.com/user-attachments/assets/57fda3fc-e15f-4b50-bb09-db57986edd61" />
+
+### reverse() - 反轉順序
+<img width="778" height="149" alt="image" src="https://github.com/user-attachments/assets/66a4490c-d2dd-4fc8-a6dc-ec5e06dfd97d" />
+
+### count() - 計數
+<img width="778" height="122" alt="image" src="https://github.com/user-attachments/assets/5b2a305f-40ac-48a2-a930-25d57113a873" />
+
+### sort() - 原地排序
+<img width="778" height="145" alt="image" src="https://github.com/user-attachments/assets/8261a8d1-5528-45de-bd0b-16b172e9c453" />
+
+### index() - 尋找位置
+<img width="779" height="127" alt="image" src="https://github.com/user-attachments/assets/3b4c90e1-c757-47c2-ab8b-6e84b9f2d4be" />
+
+### in - 成員檢查
+<img width="780" height="149" alt="image" src="https://github.com/user-attachments/assets/6cf02e94-eb5f-451e-bc62-b7bd805375f6" />
+
+## 切片操作
+### 前三個元素
+<img width="781" height="122" alt="image" src="https://github.com/user-attachments/assets/92623c78-14c9-4dcb-8506-85135cb547bf" />
+
+### 中間範圍
+<img width="781" height="125" alt="image" src="https://github.com/user-attachments/assets/ff5884c4-f94c-4ed6-8e68-280e7179154d" />
+
+### 每隔一個取
+<img width="780" height="119" alt="image" src="https://github.com/user-attachments/assets/8f786ec2-6419-434e-99e8-e28743616bc1" />
+
+## 迴圈遍歷列表
+
+### 方法一：直接遍歷
+<img width="782" height="214" alt="image" src="https://github.com/user-attachments/assets/5d4f4fd8-d193-417b-bec9-1fdb6dca102b" />
+
+### 方法二：enumerate()
+<img width="782" height="211" alt="image" src="https://github.com/user-attachments/assets/2bfd7cda-6a1c-4899-ae30-05326a78e95c" />
+
+# 元組(tuple)
+
+### 不可變特性
+<img width="778" height="79" alt="image" src="https://github.com/user-attachments/assets/dd4c4f28-7cb0-4776-868a-37879ae88f5e" />
+
+### 解包功能
+<img width="778" height="123" alt="image" src="https://github.com/user-attachments/assets/eba2438e-2455-4a13-b0fe-299903c12efc" />
+
+### 型態轉換
+<img width="782" height="172" alt="image" src="https://github.com/user-attachments/assets/ef709b1c-12c5-4ca8-93be-28577cc33325" />
