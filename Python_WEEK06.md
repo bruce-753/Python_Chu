@@ -71,7 +71,7 @@
 ### 使用 for 迴圈同時取得 Key 與 Value
 <img width="813" height="266" alt="image" src="https://github.com/user-attachments/assets/36f35f05-f917-47ef-97cb-5346c1cc8e42" />
 
-# 本週學習重點總結
+# 字典(Dictionary)與集合(Set)重點總結
 
 ## 字典 Dictionary :
 - 使用 {key: value} 建立
@@ -99,3 +99,31 @@
 - 購物車計算
 
 - 隨機不重複選號
+# UNIT 6  函式 (Functions)
+## P07-01：定義你的第一個函式
+<img width="656" height="170" alt="image" src="https://github.com/user-attachments/assets/d40521ad-edbf-4ce0-ba5e-7f15bb27e2b7" />
+
+## P07-02：參數讓函式更靈活
+<img width="659" height="175" alt="image" src="https://github.com/user-attachments/assets/763bd73b-0c35-4afa-8afd-0a40b9eb18b4" />
+
+## P07-03 & P07-04：回傳值的威力
+<img width="651" height="216" alt="image" src="https://github.com/user-attachments/assets/da20eb49-baee-4564-996b-4190fdeea1e2" />
+
+## P07-05：撰寫專業的 Docstring
+<img width="655" height="387" alt="image" src="https://github.com/user-attachments/assets/92c552b9-0b71-4950-9315-a03dd6657f72" />
+
+## P07-06：預設參數的便利性
+<img width="652" height="210" alt="image" src="https://github.com/user-attachments/assets/bd426202-a867-4c97-ae40-9164acb1d9dc" />
+
+## P07-08：變數的作用域 (Scope)
+<img width="656" height="286" alt="image" src="https://github.com/user-attachments/assets/dcb4e865-cd3e-4225-862f-b5b98a6facc9" />
+
+## P07-09：Lambda 匿名函式
+<img width="651" height="214" alt="image" src="https://github.com/user-attachments/assets/7302c285-3aec-4eef-8b2a-b83f6e0983b7" />
+
+## P07-11 ~ P07-14：模組匯入
+<img width="653" height="214" alt="image" src="https://github.com/user-attachments/assets/6674b50f-6a5c-4696-9556-c6c9494497ea" />
+
+## P07-16：擲骰子遊戲
+<img width="652" height="219" alt="image" src="https://github.com/user-attachments/assets/be050422-5270-4f29-9552-34eb8fc02844" />
+
